@@ -1,30 +1,8 @@
-<div align="center">
- <h1 align="center">Sadly I don't have the time to maintain this project. I'm building <a href="https://unkey.dev?utm_source=highstorm">unkey.dev</a> to solve API authentication and authorization with DX in mind. It's also <a href="https://github.com/unkeyed/unkey">100% open source</a>!
-</h1>
-</div>
-<br/><br/><br/>
-<div align="center">
-    <h1 align="center">Highstorm</h1>
-    <h5>Open Source Event Monitoring</h5>
-</div>
 
 <div align="center">
   <a href="https://highstorm.app?ref=github">highstorm.app</a>
 </div>
 <br/>
-
-## Contributing
-
-Thank you for considering contributing to our open source project! We appreciate your interest and are excited to have you on board. This document outlines the steps you need to follow to contribute to the project effectively. Please read the guidelines carefully and feel free to reach out if you have any questions.
-
-### Services
-
-Before getting started, please ensure that you have the following third-party services set up:
-
-- [planetscale](https://planetscale.com?ref=highstorm): Database
-- [tinybird](https://www.tinybird.co?ref=highstorm): Time series database
-- [upstash](https://upstash.com/qstash?ref=highstorm): Optional, only required for reports
-- [clerk](https://clerk.com?ref=highstorm): Authentication
 
 ## Installation
 
